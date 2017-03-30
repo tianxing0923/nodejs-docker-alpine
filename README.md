@@ -1,1 +1,1 @@
-# nodejs-docker-alpine
+# 使用NODE，官方node:alpine镜像做基础镜像包
